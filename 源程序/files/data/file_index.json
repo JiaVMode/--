@@ -1,0 +1,15 @@
+{
+  "jiavmode": [
+    "/home/jia/1/jiavmode",
+    "/home/jia/jiavmode"
+  ],
+  "file1.txt": [
+    "/home/jia/1/file1.txt"
+  ],
+  "*.txt": [
+    "/home/jia/1/file1.txt"
+  ],
+  "1": [
+    "/home/jia/1/1"
+  ]
+}

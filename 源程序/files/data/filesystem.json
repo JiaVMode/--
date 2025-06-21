@@ -1,0 +1,133 @@
+{
+  "root": {
+    "type": "dir",
+    "name": "root",
+    "path": "/",
+    "children": [
+      {
+        "name": "home",
+        "type": "dir",
+        "path": "/home",
+        "created": "2025-06-21 13:26:26",
+        "modified": "2025-06-21 13:26:26",
+        "children": [
+          {
+            "name": "shared",
+            "type": "dir",
+            "path": "/home/shared",
+            "created": "2025-06-21 13:26:26",
+            "modified": "2025-06-21 13:43:33",
+            "children": [
+              {
+                "name": "共享文件夹",
+                "type": "dir",
+                "path": "/home/shared/共享文件夹",
+                "created": "2025-06-21 13:43:33",
+                "modified": "2025-06-21 13:43:33",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "jia",
+            "type": "dir",
+            "path": "/home/jia",
+            "created": "2025-06-21 13:30:22",
+            "modified": "2025-06-21 18:08:04",
+            "children": [
+              {
+                "name": "1",
+                "type": "dir",
+                "path": "/home/jia/1",
+                "created": "2025-06-21 13:30:35",
+                "modified": "2025-06-21 17:16:04",
+                "children": [
+                  {
+                    "name": "jiavmode",
+                    "type": "file",
+                    "path": "/home/jia/1/jiavmode",
+                    "created": "2025-06-21 14:03:19",
+                    "modified": "2025-06-21 14:08:11",
+                    "content": "1212",
+                    "size": 4,
+                    "hidden": false
+                  },
+                  {
+                    "name": "file1.txt",
+                    "type": "file",
+                    "path": "/home/jia/1/file1.txt",
+                    "created": "2025-06-21 15:23:39",
+                    "modified": "2025-06-21 15:23:56",
+                    "content": "no content",
+                    "size": 10
+                  },
+                  {
+                    "name": "1",
+                    "type": "file",
+                    "path": "/home/jia/1/1",
+                    "created": "2025-06-21 17:16:04",
+                    "modified": "2025-06-21 17:16:04",
+                    "content": "",
+                    "size": 0
+                  }
+                ]
+              },
+              {
+                "name": "2",
+                "type": "dir",
+                "path": "/home/jia/2",
+                "created": "2025-06-21 13:46:23",
+                "modified": "2025-06-21 14:02:48",
+                "children": []
+              },
+              {
+                "name": "jiavmode",
+                "type": "file",
+                "path": "/home/jia/jiavmode",
+                "created": "2025-06-21 14:03:19",
+                "modified": "2025-06-21 18:08:04",
+                "content": "姓名：李嘉\n学号：3123009043\n123\n123",
+                "size": 27,
+                "hidden": false
+              }
+            ]
+          },
+          {
+            "name": "li",
+            "type": "dir",
+            "path": "/home/li",
+            "created": "2025-06-21 13:30:22",
+            "modified": "2025-06-21 13:30:22",
+            "children": []
+          },
+          {
+            "name": "admin",
+            "type": "dir",
+            "path": "/home/admin",
+            "created": "2025-06-21 13:32:45",
+            "modified": "2025-06-21 13:32:45",
+            "children": []
+          },
+          {
+            "name": "lijia",
+            "type": "dir",
+            "path": "/home/lijia",
+            "created": "2025-06-21 15:27:12",
+            "modified": "2025-06-21 15:27:12",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "system",
+        "type": "dir",
+        "path": "/system",
+        "created": "2025-06-21 17:28:11",
+        "modified": "2025-06-21 17:28:11",
+        "children": []
+      }
+    ],
+    "created": "2024-01-01 00:00:00",
+    "modified": "2024-01-01 00:00:00"
+  }
+}

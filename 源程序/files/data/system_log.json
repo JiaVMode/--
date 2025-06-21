@@ -1,0 +1,12 @@
+{
+  "access_log": [
+    {
+      "timestamp": "2025-06-21T17:49:16.876106",
+      "file_path": "/home/jia/jiavmode",
+      "operation": "read",
+      "username": "jia",
+      "success": true
+    }
+  ],
+  "last_update": "2025-06-21T17:49:45.249241"
+}

@@ -1,0 +1,26 @@
+{
+  "admin": {
+    "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "role": "admin",
+    "created_time": "2024-01-01 00:00:00",
+    "status": "active"
+  },
+  "jia": {
+    "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "role": "user",
+    "created_time": "2024-01-01 00:00:00",
+    "status": "active"
+  },
+  "li": {
+    "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "role": "user",
+    "created_time": "2024-01-01 00:00:00",
+    "status": "active"
+  },
+  "lijia": {
+    "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "role": "user",
+    "created_time": "2025-06-21 15:26:54",
+    "status": "active"
+  }
+}
